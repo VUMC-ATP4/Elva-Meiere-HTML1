@@ -1,0 +1,21 @@
+.krasa{
+    color:darkgreen;
+}
+.aizrausanas{
+    color:darkmagenta;
+}
+.ramitisl{
+background-color:aliceblue;
+border-style: dashed;
+border-color: chocolate;
+}
+.ramitisk{
+    background-color:coral;
+border-style: groove;
+border-color: chocolate;
+}
+
+#specramitis{
+    display: grid;
+    grid-template-columns: 35% 35%;
+}
